@@ -116,9 +116,3 @@ USE restaurant_db;
 3. Import `menu_items.csv` and `order_details.csv` into their respective tables
 
 4. Run the queries in `queries/restaurant_analysis.sql`
-
----
-
-## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](#) or reach out via [GitHub](#) if you have any questions or feedback about this project.
